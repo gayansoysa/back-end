@@ -1,0 +1,25 @@
+{
+  "name": "quiz-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quiz-backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwiggenhauser/quiz-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwiggenhauser/quiz-backend/issues"
+  },
+  "homepage": "https://github.com/bwiggenhauser/quiz-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "he": "^1.2.0",
+    "socket.io": "^4.5.1",
+    "socket.io-client": "^4.5.1"
+  }
+}
